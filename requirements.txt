@@ -2,6 +2,6 @@ opencv-python
 torch
 torchvision
 scikit-image
-Flask==1.0.2
+Flask==2.3.2
 Flask-Bootstrap==3.3.7.1
 Flask-WTF==0.14.2
